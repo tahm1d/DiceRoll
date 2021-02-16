@@ -39,9 +39,9 @@ function change()
     else if(value==2)
     {
         reset();
-        d2.classList.add("invisible");
+        d1.classList.add("invisible");
         d3.classList.add("invisible");
-        d5.classList.add("invisible");
+        d4.classList.add("invisible");
         d6.classList.add("invisible");
     }
 
